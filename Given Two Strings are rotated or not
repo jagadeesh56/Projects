@@ -1,0 +1,21 @@
+/*
+import java.util.*;
+public  class Main{
+    public static boolean rotatedString(String s1,String s2)
+    {
+        
+        String sadd=s1+s1;
+        if(sadd.contains(s2))
+         return true;
+         else
+         return false;
+    }
+    public static void main(String args[])
+     {
+         String s1="haranath";
+         String s2="nathhara";
+         Main m=new Main();
+         System.out.println(" Is '" + s1 + "'and'" + s2 + "'are rotated: "+m.rotatedString(s1,s2));
+     }
+}
+*/
